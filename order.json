@@ -43,5 +43,14 @@
     "updated_date": "2026-01-02T15:00:00Z",
     "amount": 450.75,
     "source_system": "orders_app"
+  },
+  {
+    "order_id": 6,
+    "customer_id": "1006",
+    "customer_name": "New",
+    "order_date": "2026-05-16T15:00:00Z",
+    "updated_date": "2026-05-16T15:00:00Z",
+    "amount": 450.75,
+    "source_system": "orders_app"
   }
 ]
